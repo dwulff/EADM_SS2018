@@ -24,11 +24,11 @@ If you encounter any problems please <a href="mailto:dirk.wulff@gmail.com">email
 
 ##### Intro to R
 
-[slides](https://dwulff.github.io/EADM_SS2018/IntroToR/Intro_to_R.html), Interactive
+[slides](https://dwulff.github.io/EADM_SS2018/IntroToR/Intro_to_R.html), [Interactive](Intro_to_R_interactive.R)
 
 ##### Trajectory types
 
-[slides](https://dwulff.github.io/EADM_SS2018/TrajectoryTypes/TrajectoryTypes.html), Interactive
+[slides](https://dwulff.github.io/EADM_SS2018/TrajectoryTypes/EGPROC_SS2018_MT), [Interactive](TrajectoryTypes_practical.html)
 
 ## Decisions from Experience
 
