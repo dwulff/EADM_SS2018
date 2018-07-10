@@ -53,6 +53,26 @@ h1, h2, h3 {
   padding: 2px;
 }
 
+.pull-top10 {
+  float: top;
+  width: 10%;
+}
+
+.pull-top5 {
+  float: top;
+  width: 5%;
+}
+
+.pull-bottom85 {
+  float: bottom;
+  width: 85%;
+}
+
+.pull-bottom90 {
+  float: bottom;
+  width: 90%;
+}
+
 .pull-left05 {
   float: left;
   width: 5%;
