@@ -1,0 +1,22 @@
+---
+title: "Mousetracking EADM summer school 2018"
+author: "<br><a href='www.dirkwulff.org'>Dirk Wulff</a>"
+output: html_document
+---
+
+<br>
+
+### Get ready
+
+Please download and install:
+
+<a href="https://cran.r-project.org/"><b>R</b></a><br>
+<a href="https://www.rstudio.com/products/rstudio/download/#download"><b>RStudio</b></a>
+
+Then run in RStudio's console window (run = copy & paste into the window and press ENTER):
+
+`install.packages('mousetrap')`
+
+If you encounter any problems please <a href="mailto:dirk.wulff@gmail.com">email</a> me.
+
+
