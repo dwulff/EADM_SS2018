@@ -28,7 +28,7 @@ If you encounter any problems please <a href="mailto:dirk.wulff@gmail.com">email
 
 ##### Trajectory types
 
-[slides](https://dwulff.github.io/EADM_SS2018/_sessions/TrajectoryTypes/EGPROC_SS2018_MT), [Interactive](https://dwulff.github.io/EADM_SS2018/_sessions/TrajectoryTypes/TrajectoryTypes_practical.html)
+[slides](https://dwulff.github.io/EADM_SS2018/_sessions/TrajectoryTypes/EGPROC_SS2018_MT.pdf), [Interactive](https://dwulff.github.io/EADM_SS2018/_sessions/TrajectoryTypes/TrajectoryTypes_practical.html)
 
 ## Decisions from Experience
 
