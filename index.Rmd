@@ -1,10 +1,10 @@
 ---
-title: "Mousetracking EADM summer school 2018"
+title: "EADM summer school 2018"
 author: "<br><a href='www.dirkwulff.org'>Dirk Wulff</a>"
 output: html_document
 ---
 
-<br>
+# Mouse-tracking
 
 ### Get ready
 
@@ -20,3 +20,14 @@ Then run in RStudio's console window (run = copy & paste into the window and pre
 If you encounter any problems please <a href="mailto:dirk.wulff@gmail.com">email</a> me.
 
 
+### Sessions
+
+##### Intro to R
+
+[slides](https://dwulff.github.io/EADM_SS2018/IntroToR/Intro_to_R.html), Interactive
+
+##### Trajectory types
+
+[slides](https://dwulff.github.io/EADM_SS2018/TrajectoryTypes/TrajectoryTypes.html), Interactive
+
+# Decisions from Experience
