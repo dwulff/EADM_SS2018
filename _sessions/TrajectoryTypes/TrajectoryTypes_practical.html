@@ -181,7 +181,7 @@ spivey_mt &lt;- mt_align(spivey_mt, coordinates = 'mt')</code></pre>
 mt_animate(spivey_mt,
            density = 5,
            seconds = 1)</code></pre>
-<p>Create a heatmap of your data using <code>mt_heatmap()</code>. Againg try playing around with the function arguments, such as <code>xres</code> and <code>colors</code>. Check out <code>?mt_heatmap</code> and <code>?mt_heatmap_raw</code>.</p>
+<p>Create a heatmap of your data using <code>mt_heatmap()</code>. Again try playing around with the function arguments, such as <code>xres</code> and <code>colors</code>. Check out <code>?mt_heatmap</code> and <code>?mt_heatmap_raw</code>.</p>
 <p>Advanced: Try to add velocity as a third dimension represented by color.</p>
 <pre class="r"><code># create heat map
 mt_heatmap(spivey_mt,
@@ -305,7 +305,7 @@ control  1.817520  1.519024  0.1299146 -2.592177  0.3098648 -0.1223523
                 7
 cohort   3.894743
 control -4.048258</code></pre>
-<p>Finally, evaluate the relationship between types and classic curvarure comparisons. Does the average curvature differ between conditions for trajectory types that are consistent with Spivey et al.’s interpretation of mousetracking, i.e., trajectories that do not exhibit obvious discontinuities or kinks? For Spivey et al.’s data, those trajectories are represented by the <code>straight</code>, <code>curved</code>, and <code>cCoM</code> types. Use <code>mt_subset</code>, <code>mt_measures</code>, and <code>mt_aggregate</code> to compute the average mean absolute deviation (MAD) per condition and evaluate the effect size.</p>
+<p>Finally, evaluate the relationship between types and classic curvature comparisons. Does the average curvature differ between conditions for trajectory types that are consistent with Spivey et al.’s interpretation of mousetracking, i.e., trajectories that do not exhibit obvious discontinuities or kinks? For Spivey et al.’s data, those trajectories are represented by the <code>straight</code>, <code>curved</code>, and <code>cCoM</code> types. Use <code>mt_subset</code>, <code>mt_measures</code>, and <code>mt_aggregate</code> to compute the average mean absolute deviation (MAD) per condition and evaluate the effect size.</p>
 <pre class="r"><code># store chisq test object
 spivey_mt_subset &lt;- mt_subset(spivey_mt,
                               check = 'prototyping',
