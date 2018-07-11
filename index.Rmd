@@ -19,6 +19,7 @@ Then run in RStudio's console window (run = copy & paste into the window and pre
 
 If you encounter any problems please <a href="mailto:dirk.wulff@gmail.com">email</a> me.
 
+Get Mac OS (High Sierra) binary [Binary](https://dwulff.github.io/EADM_SS2018/_materials/mousetrap_3.1.1.tgz)
 
 ### Sessions
 
