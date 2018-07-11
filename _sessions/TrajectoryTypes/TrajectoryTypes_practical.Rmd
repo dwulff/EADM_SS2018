@@ -88,10 +88,10 @@ Advanced: Try do determine the appropriate number of clusters using `mt_cluster_
 
 ```{r, eval = T, cache=T}
 # calculate spatialized trajectories
-spivey_mt = mt_spatialize(spivey_mt)
+spivey_mt <- mt_spatialize(spivey_mt)
 
 # cluster trajectories. 
-spivey_mt = mt_cluster(spivey_mt, n_cluster = 5)
+spivey_mt <- mt_cluster(spivey_mt, n_cluster = 5)
 
 # show element names
 names(spivey_mt)

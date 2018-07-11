@@ -199,10 +199,10 @@ enhance image by 49.2 </code></pre>
 <p>Cluster your data using <code>mt_cluster()</code>. To do this, first calculate the spatialized trajectories using <code>mt_spatialize()</code>. Then use <code>mt_cluster()</code> to cluster the trajectories. Choose some number of clusters between 3 and 10 and assign that value to the <code>n_cluster</code>-argument. The cluster assignments will be stored in a new element in the mousetrap object. Find out how it is called using <code>names()</code>.</p>
 <p>Advanced: Try do determine the appropriate number of clusters using <code>mt_cluster_k()</code></p>
 <pre class="r"><code># calculate spatialized trajectories
-spivey_mt = mt_spatialize(spivey_mt)
+spivey_mt &lt;- mt_spatialize(spivey_mt)
 
 # cluster trajectories. 
-spivey_mt = mt_cluster(spivey_mt, n_cluster = 5)
+spivey_mt &lt;- mt_cluster(spivey_mt, n_cluster = 5)
 
 # show element names
 names(spivey_mt)</code></pre>
