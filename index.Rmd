@@ -37,13 +37,13 @@ Get Mac OS (High Sierra) [binary](https://dwulff.github.io/EADM_SS2018/_material
 
 ##### Modes of learning and the description-experience gap
 
-[slides](https://dwulff.github.io/EADM_SS2018/_sessions/Gap/EGPROC_SS2018_DfE_I.pdf)<br>
+Slides: [link](https://dwulff.github.io/EADM_SS2018/_sessions/Gap/EGPROC_SS2018_DfE_I.pdf)<br>
 Interactive 1: [link](https://wulff.jakobit.de/risk/ch7)<br>
 Interactive 2: [link](https://econpsychbasel.shinyapps.io/exploreGap/), [predictions](https://docs.google.com/forms/d/e/1FAIpQLSdG6RWqet4K1oEg_QzTxHXlCu_f_yiXXGStA1ijDpM6OGP5AA/viewform?usp=sf_link)
 
 ##### Modes of learning and risk perception
 
-[slides](https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/EGPROC_SS2018_DfE_II.pdf)<br>
+Slides: [link](https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/EGPROC_SS2018_DfE_II.pdf)<br>
 Interactive: [link](https://wulff.jakobit.de/risk), [data](https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/risktool_data.csv), [results](https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/results.html)
 
 
