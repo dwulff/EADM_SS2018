@@ -29,8 +29,10 @@ gs = gs_title(tab)
 d = gs_read(gs)
 d = as.data.frame(d)
 
-d$Alpha = as.numeric(gsub(',','.',d$Alpha))
-d$Recency = as.numeric(gsub(',','.',d$Recency))
+d$Noise[d$Noise > 1] = d$Noise[d$Noise > 1] / 1000
+
+# d$Alpha = as.numeric(gsub(',','.',d$Alpha))
+# d$Recency = as.numeric(gsub(',','.',d$Recency))
 
 # some corrections
 # d$Noise[c(7,16,18,20)] = d$Noise[c(7,16,18,20)] / 1000
