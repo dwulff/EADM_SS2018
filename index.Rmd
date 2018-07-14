@@ -44,7 +44,8 @@ Interactive 2: [link](https://econpsychbasel.shinyapps.io/exploreGap/), [predict
 ##### Modes of learning and risk perception
 
 Slides: [link](https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/EGPROC_SS2018_DfE_II.pdf)<br>
-Interactive: [link](https://wulff.jakobit.de/risk), [data](https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/risktool_data.csv), [results](https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/results.html)
+Interactive: [link](https://wulff.jakobit.de/risk), [data](https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/risk_tool_data.csv),
+[problems](https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/risk_tool_data.csv), [results](https://dwulff.github.io/EADM_SS2018/_sessions/RiskTool/results.html)
 
 
 
